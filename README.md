@@ -17,8 +17,8 @@
 - `review_content`: Customer review content.
 - `user_id`: Unique identifier for the user.
 - `user_name`: Name of the user.
-  
-  You Can Download The Dataset from the  Resource:-  https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset.
+
+You Can Download The Dataset from the  Resource:-  https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset.
 
   
 4.SQL Queries:-
